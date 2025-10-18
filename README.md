@@ -2,7 +2,7 @@
 
 An interactive educational platform that makes learning molecular biology engaging through whimsical illustrations, visualizations, and gamified lessons.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/HELIX-DNA-Edu)
 
 HelixScope is a visually stunning web application designed to demystify complex molecular biology concepts using an illustrative and whimsical art style. It features interactive learning modules covering topics from DNA structure to protein synthesis. Users can engage with 3D molecular models, build DNA strands with drag-and-drop interfaces, and watch key biological processes unfold through beautiful animations. A built-in assessment system with quizzes and virtual labs tests understanding, while gamification elements like achievements and leaderboards keep learners motivated. The platform is built on modern web technologies, ensuring a responsive and accessible experience across all devices.
 
@@ -66,7 +66,7 @@ This application is designed for easy deployment to the Cloudflare network.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/HELIX-DNA-Edu)
 
 ### Manual Deployment via CLI
 
